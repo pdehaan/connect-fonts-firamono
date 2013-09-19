@@ -1,5 +1,5 @@
 {
-  "Author": "Shane Tomlinson <shane@shanetomlinson.com> (https://shanetomlinson.com)",
+  "author": "Shane Tomlinson <shane@shanetomlinson.com> (https://shanetomlinson.com)",
   "name": "connect-fonts-firamono",
   "description": "Fira Mono font pack for connect-fonts",
   "keywords": ["font", "font-face", "CSS", "connect-fonts", "firamono-bold", "firamono-regular"],
